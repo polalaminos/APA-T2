@@ -1,6 +1,6 @@
 """ 
 Pol Alaminos Martorell 
-
+POL ALAMINOS MARTORELL
 >>> esPrimo(4)
 False
 
